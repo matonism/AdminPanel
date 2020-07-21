@@ -1,0 +1,11 @@
+{
+  "name": "adminpanel",
+  "version": "1.0.0",
+  "description": "This is an admin panel for use by an admin for changing website content on the fly without technical know-how",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm /server/index.js"
+  },
+  "author": "Michael Matonis",
+  "license": "ISC"
+}
